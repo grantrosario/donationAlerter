@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					A773B0721DF1C54C007A3186 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = BEFKP7RQEK;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BEFKP7RQEK;
 				INFOPLIST_FILE = donationAlerter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.donationAlerter;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BEFKP7RQEK;
 				INFOPLIST_FILE = donationAlerter/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.donationAlerter;
